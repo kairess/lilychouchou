@@ -5,12 +5,12 @@ function LilyType() {
     this.brackets = "「」";
     this.offset = 3;
     this.typingSpeed = 50;
-    this.targetId = "title";
+    this.targetId = "script";
     this.isDialogue = false;
 }
 
 LilyType.prototype.setScript = function(script) {
-    this.messages = JSON.parse(script);
+    this.messages = script;
 };
 
 LilyType.prototype.print = function(message) {
@@ -59,7 +59,7 @@ LilyType.prototype.getScript = function(url, cb) {
     xmlhttp.onreadystatechange = function() {
         if (xmlhttp.readyState == XMLHttpRequest.DONE) {
             if (xmlhttp.status == 200) {
-                cb(xmlhttp.responseText);
+                cb(JSON.parse(xmlhttp.responseText));
             } else if (xmlhttp.status == 400) {
                 alert('There was an error 400');
             } else {

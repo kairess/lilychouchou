@@ -1,9 +1,13 @@
-[{
-        "string": "リリイ・シュシュのすべて",
-        "timing": 1000
-    },
-    {
-        "string": "릴리슈슈의 모든것",
-        "timing": 3000
-    }
-]
+{
+    "title": "Kyomei",
+    "file_location": "/musics/01kyomei.mp3",
+    "script": [{
+            "string": "リリイ・シュシュのすべて",
+            "timing": 1000
+        },
+        {
+            "string": "릴리슈슈의 모든것",
+            "timing": 3000
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        <%=title%> :: リリィフィリア
+    </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/stylesheets/style.css" rel="stylesheet">
+    <script src="/javascripts/tock.min.js"></script>
+    <script src="/javascripts/howler.core.js"></script>
+    <script src="/javascripts/index.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div id="title">
+            <%=music%>
+        </div>
+        <div id="script"></div>
+    </div>
+</body>
+
+<script>
+    var t = new LilyType();
+
+    t.getScript('/script/<%=music%>', function(res) {
+        t.setScript(res.script);
+
+        var sound = new Howl({
+            src: [res.file_location],
+            loop: true,
+            onload: function() {
+                sound.play();
+            },
+            onplay: function() {
+                t.printAll();
+            },
+            onend: function() {
+                console.log('Finished!');
+            }
+        });
+    });
+</script>
+
+</html>
