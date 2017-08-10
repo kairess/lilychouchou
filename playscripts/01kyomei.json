@@ -1,12 +1,12 @@
 {
-    "title": "Kyomei",
+    "title": "共鳴(空虚な石)",
     "file_location": "/musics/01kyomei.mp3",
     "script": [{
-            "string": "リリイ・シュシュのすべて",
-            "timing": 1000
+            "string": "共鳴(空虚な石)",
+            "timing": 100
         },
         {
-            "string": "릴리슈슈의 모든것",
+            "string": "",
             "timing": 3000
         }
     ]
