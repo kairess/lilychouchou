@@ -3,7 +3,7 @@ function LilyType() {
 
     this.unicodeRange = [0x00A1, 0x02B8];
     this.brackets = "「」";
-    this.offset = 2;
+    this.offset = 1;
     this.typingSpeed = 50;
     this.targetId = "script";
     this.isDialogue = false;
