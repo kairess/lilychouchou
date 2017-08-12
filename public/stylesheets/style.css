@@ -1,3 +1,9 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+body {
+    font-family: "Noto Sans Japanese", 'Noto Sans KR', sans-serif;
+}
+
 .container {
     position: relative;
     /* height: 200px;   */
