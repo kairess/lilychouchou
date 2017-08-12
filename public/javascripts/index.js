@@ -40,7 +40,7 @@ LilyType.prototype.print = function(message) {
             if(rand >= 0.25) {
                 backgroundColor = "black"
                 fontColor = "#fff";
-                translateColor = "#eee";
+                translateColor = "#777";
             }
 
             document.body.style.backgroundColor = backgroundColor;
@@ -90,10 +90,8 @@ LilyType.prototype.getScript = function(url, cb) {
         if (xmlhttp.readyState == XMLHttpRequest.DONE) {
             if (xmlhttp.status == 200) {
                 cb(JSON.parse(xmlhttp.responseText));
-            } else if (xmlhttp.status == 400) {
-                alert('There was an error 400');
             } else {
-                alert('something else other than 200 was returned');
+                alert('Error, Refresh the page F5.');
             }
         }
     };
