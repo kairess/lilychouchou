@@ -1,7 +1,7 @@
 function LilyType() {
     this.messages;
 
-    this.unicodeRange = [0x00A1, 0x02B8];
+    this.unicodeRange = [0x00BF, 0x02B8];
     this.brackets = "「」";
     this.offset = 1;
     this.typingSpeed = 50;
@@ -30,6 +30,22 @@ LilyType.prototype.print = function(message) {
 
             targetObj.innerHTML = "";
             translateObj.innerHTML = "";
+
+            // Set background color
+            var rand = Math.random();
+            var backgroundColor = "white";
+            var fontColor = "#333";
+            var translateColor = "#666";
+
+            if(rand >= 0.25) {
+                backgroundColor = "black"
+                fontColor = "#fff";
+                translateColor = "#eee";
+            }
+
+            document.body.style.backgroundColor = backgroundColor;
+            targetObj.style.color = fontColor;
+            translateObj.style.color = translateColor;
 
             if(!message.string) {
                 outputString = "";

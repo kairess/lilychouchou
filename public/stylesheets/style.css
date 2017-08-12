@@ -1,23 +1,36 @@
+.container {
+    position: relative;
+    /* height: 200px;   */
+    width: 100%;
+    margin: 0 auto;
+}
+
 .wrapper {
-    position: absolute;
-    width: 500px;
-    top: 40%;
-    left: 25%;
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #title {
+    position: relative;
+    width: 100%;
     font-size: 1em;
     color: #333;
     text-align: center;
 }
 
 #script {
+    position: relative;
+    width: 100%;
     font-size: 3em;
     color: #333;
     text-align: center;
 }
 
 #translate {
+    position: relative;
     font-size: 0.5em;
     color: #666;
     text-align: center;
