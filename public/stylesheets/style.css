@@ -1,11 +1,24 @@
+.wrapper {
+    position: absolute;
+    width: 500px;
+    top: 40%;
+    left: 25%;
+}
+
 #title {
-    font-size: 0.5em;
+    font-size: 1em;
     color: #333;
     text-align: center;
 }
 
 #script {
-    font-size: 0.5em;
+    font-size: 3em;
     color: #333;
+    text-align: center;
+}
+
+#translate {
+    font-size: 0.5em;
+    color: #666;
     text-align: center;
 }

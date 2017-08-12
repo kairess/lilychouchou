@@ -15,33 +15,55 @@
 
 <body>
     <div class="wrapper">
-        <div id="title">
-            <%=music%>
-        </div>
+        <!-- <div id="title">
+            <%=title%>
+        </div> -->
+        <div id="clock"></div>
+        <div id="lap"></div>
         <div id="script"></div>
+        <div id="translate"></div>
     </div>
 </body>
 
 <script>
     var t = new LilyType();
+    var sound, progress;
 
     t.getScript('/script/<%=music%>', function(res) {
         t.setScript(res.script);
 
-        var sound = new Howl({
+        sound = new Howl({
             src: [res.file_location],
             loop: true,
             onload: function() {
                 sound.play();
+
+                t.printAll();
             },
             onplay: function() {
                 t.printAll();
+
+                if(progress) progress.reset();
+                progress = new Tock({
+                    callback: function() {
+                        // document.getElementById("clock").innerHTML = this.lap();
+                    }
+                });
+
+                progress.start();
             },
             onend: function() {
                 console.log('Finished!');
             }
         });
     });
+
+    // document.addEventListener("keydown", function(event) {
+    //     if(event.which == 32) {
+    //         console.log(progress);
+    //         document.getElementById("lap").innerHTML += "<br>" + progress.lap();
+    //     }
+    // });
 </script>
 
 </html>

@@ -6,7 +6,10 @@ function LilyType() {
     this.offset = 1;
     this.typingSpeed = 50;
     this.targetId = "script";
+    this.translateId = "translate";
     this.isDialogue = false;
+
+    this.translate = "korean";
 }
 
 LilyType.prototype.setScript = function(script) {
@@ -23,8 +26,15 @@ LilyType.prototype.print = function(message) {
         countdown: true,
         complete: function() {
             targetObj = document.getElementById(self.targetId);
+            translateObj = document.getElementById(self.translateId);
 
             targetObj.innerHTML = "";
+            translateObj.innerHTML = "";
+
+            if(!message.string) {
+                outputString = "";
+                return;
+            }
 
             for (var j = 0; j < message.string.length + self.offset; j++) {
                 outputString += String.fromCharCode(self.unicodeRange[0] + Math.random() * (self.unicodeRange[1] - self.unicodeRange[0] + 1));
@@ -41,6 +51,10 @@ LilyType.prototype.print = function(message) {
                     clearInterval(printer);
 
                     targetObj.innerHTML = "《" + message.string + "》";
+
+                    if(self.translate && message[self.translate]) {
+                        translateObj.innerHTML = message[self.translate];
+                    }
                 }
             }, self.typingSpeed);
         }
