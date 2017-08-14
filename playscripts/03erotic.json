@@ -1,0 +1,222 @@
+{
+    "title": "エロティック(Erotic)",
+    "file_location": "/musics/03erotic.mp3",
+    "script": [
+        {
+            "string": "エロティック(Erotic)",
+            "korean": "에로틱",
+            "timing": 1000
+        },
+        {
+            "string": "夢の中に入りこんだ",
+            "korean": "꿈속으로 들이닥친",
+            "timing": 21776
+        },
+        {
+            "string": "イメ-ジのかけらから",
+            "korean": "이미지의 조각에서",
+            "timing": 26192
+        },
+        {
+            "string": "あなたが欲しがっているものを",
+            "korean": "당신이 바라고있는 것을",
+            "timing": 32175
+        },
+        {
+            "string": "探し出してる",
+            "korean": "찾아내고 있어",
+            "timing": 36384
+        },
+        {
+            "string": "紅茶の中に移ってる",
+            "korean": "홍차 속에 비치는",
+            "timing": 45071
+        },
+        {
+            "string": "曇った空のグレイ",
+            "korean": "흐린 하늘의 회색빛",
+            "timing": 49248,
+            "backgroundColor": "#999"
+        },
+        {
+            "string": "あなたが持ち上げていって",
+            "korean": "당신이 들고 있어서",
+            "timing": 55070
+        },
+        {
+            "string": "晝に溶けてた",
+            "korean": "낮에 녹았어",
+            "timing": 59599
+        },
+        {
+            "string": "好きなのはあなたの",
+            "korean": "좋아하는 것은 당신의",
+            "timing": 64367
+        },
+        {
+            "string": "全てじゃなくて",
+            "korean": "전부가 아니라",
+            "timing": 67326
+        },
+        {
+            "string": "風のような",
+            "korean": "바람같은",
+            "timing": 71214
+        },
+        {
+            "string": "傷跡のような",
+            "korean": "상처자국같은",
+            "timing": 74862
+        },
+        {
+            "string": "海の響きのような",
+            "korean": "바다의 울림같은",
+            "timing": 78190
+        },
+        {
+            "string": "エロティック",
+            "korean": "에로틱",
+            "timing": 83815
+        },
+        {
+            "string": "",
+            "korean": "",
+            "timing": 88815
+        },
+        {
+            "string": "氣のない素振りで彈いてる",
+            "korean": "기운없는 움직임으로 연주하는",
+            "timing": 96414
+        },
+        {
+            "string": "スケ-ル(音譜)の間から",
+            "korean": "스케일(음보) 사이에서",
+            "timing": 100677
+        },
+        {
+            "string": "音なのか音樂なのか",
+            "korean": "소리인지 음악인지",
+            "timing": 106605
+        },
+        {
+            "string": "聞こえ始める",
+            "korean": "들리기시작해",
+            "timing": 111021
+        },
+        {
+            "string": "その指で何氣なく",
+            "korean": "그 손가락으로 아무렇지않게",
+            "timing": 115822
+        },
+        {
+            "string": "彈くメロディ-始めから",
+            "korean": "연주하는 멜로디 처음부터",
+            "timing": 119133
+        },
+        {
+            "string": "そこにあるライン",
+            "korean": "거기에 있는 라인을",
+            "timing": 126204
+        },
+        {
+            "string": "なぞるように奏でる",
+            "korean": "칠하듯이 연주해",
+            "timing": 129292
+        },
+        {
+            "string": "死んだような街に",
+            "korean": "죽은듯한 거리에",
+            "timing": 136348
+        },
+        {
+            "string": "響くのは明日のレクイエム",
+            "korean": "울리는 것은 내일의 레퀴엠",
+            "timing": 139076
+        },
+        {
+            "string": "生きていたいと",
+            "korean": "살아있고싶다고",
+            "timing": 146860
+        },
+        {
+            "string": "思わなくても...",
+            "korean": "생각하지 않아도...",
+            "timing": 149692
+        },
+        {
+            "string": "",
+            "korean": "",
+            "timing": 159692
+        },
+        {
+            "string": "私が欲しがってるものを",
+            "korean": "내가 바라고있는 것을",
+            "timing": 194083
+        },
+        {
+            "string": "探し出してよ",
+            "korean": "찾아내줘",
+            "timing": 198401
+        },
+        {
+            "string": "その指で何氣なく",
+            "korean": "그 손가락으로 아무렇지않게",
+            "timing": 204410
+        },
+        {
+            "string": "彈くメロディ-始めから",
+            "korean": "연주하는 멜로디 처음부터",
+            "timing": 208065
+        },
+        {
+            "string": "そこにあるライン",
+            "korean": "거기에 있는 라인을",
+            "timing": 214946
+        },
+        {
+            "string": "なぞるように奏でる",
+            "korean": "칠하듯이 연주해",
+            "timing": 218361
+        },
+        {
+            "string": "好きなのはあなたの",
+            "korean": "좋아하는 것은 당신의",
+            "timing": 225003
+        },
+        {
+            "string": "全てじゃなくて",
+            "korean": "전부가 아니라",
+            "timing": 228112
+        },
+        {
+            "string": "風のような",
+            "korean": "바람같은",
+            "timing": 231872
+        },
+        {
+            "string": "傷跡のような",
+            "korean": "상처자국같은",
+            "timing": 235657
+        },
+        {
+            "string": "海の響きのような",
+            "korean": "바다의 울림같은",
+            "timing": 238920
+        },
+        {
+            "string": "エロティック",
+            "korean": "에로틱",
+            "timing": 244504
+        },
+        {
+            "string": "エロティック",
+            "korean": "에로틱",
+            "timing": 251448
+        },
+        {
+            "string": "",
+            "korean": "",
+            "timing": 261448
+        }
+    ]
+}

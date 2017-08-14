@@ -1,0 +1,9 @@
+{
+    "title": "回復する傷",
+    "file_location": "/musics/05kaifukusurukizu.mp3",
+    "script": [{
+        "string": "回復する傷",
+        "korean": "회복하는 상처",
+        "timing": 1000
+    }]
+}

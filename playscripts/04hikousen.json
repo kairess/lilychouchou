@@ -1,0 +1,171 @@
+{
+    "title": "飛行船",
+    "file_location": "/musics/04hikousen.mp3",
+    "script": [
+        {
+            "string": "飛行船",
+            "korean": "비행선",
+            "timing": 1000
+        },
+        {
+            "string": "根據も何もない",
+            "korean": "근거도 아무것도 없는",
+            "timing": 17710
+        },
+        {
+            "string": "晝下がりの街で",
+            "korean": "정오가 지난 무렵 거리에",
+            "timing": 21958
+        },
+        {
+            "string": "曇ったムレの中",
+            "korean": "구름진 무리들 속에서",
+            "timing": 26188
+        },
+        {
+            "string": "息をしているのです",
+            "korean": "숨을 쉬고 있습니다.",
+            "timing": 30396
+        },
+        {
+            "string": "ウィ.ウォナ.ゴㅡ",
+            "korean": "We wanna goㅡ",
+            "timing": 39132
+        },
+        {
+            "string": "懲りない欲望が",
+            "korean": "질리지도 않는 욕망이",
+            "timing": 43148
+        },
+        {
+            "string": "突然吹き出して",
+            "korean": "돌연 불기 시작해서",
+            "timing": 47412
+        },
+        {
+            "string": "巨大な飛行船",
+            "korean": "거대한 비행선",
+            "timing": 51692
+        },
+        {
+            "string": "アタシを持ち上げる",
+            "korean": "나를 쏘아올린다",
+            "timing": 55836
+        },
+        {
+            "string": "存在は",
+            "korean": "존재는",
+            "timing": 59828
+        },
+        {
+            "string": "成り立たない",
+            "korean": "형성되지 않아",
+            "timing": 64052
+        },
+        {
+            "string": "混迷が",
+            "korean": "혼미함이",
+            "timing": 68380
+        },
+        {
+            "string": "渦券く",
+            "korean": "소용돌이치네",
+            "timing": 72594
+        },
+        {
+            "string": "救命道具も",
+            "korean": "구명도구도",
+            "timing": 76771
+        },
+        {
+            "string": "役に立たない",
+            "korean": "도움되질 않아",
+            "timing": 81066
+        },
+        {
+            "string": "",
+            "korean": "",
+            "timing": 86066
+        },
+        {
+            "string": "ハサミの間から",
+            "korean": "가위 사이로",
+            "timing": 106890
+        },
+        {
+            "string": "街を覗いている",
+            "korean": "거리를 엿보고 있다",
+            "timing": 111137
+        },
+        {
+            "string": "巨大な飛行船",
+            "korean": "거대한 비행선",
+            "timing": 115393
+        },
+        {
+            "string": "アタシを乘せていく",
+            "korean": "나를 태우고 가네",
+            "timing": 119610
+        },
+        {
+            "string": "本体は",
+            "korean": "정체는",
+            "timing": 123561
+        },
+        {
+            "string": "謎のままの",
+            "korean": "수수께끼인 채로의",
+            "timing": 127785
+        },
+        {
+            "string": "現在を",
+            "korean": "현재를",
+            "timing": 132025
+        },
+        {
+            "string": "重ねて",
+            "korean": "가리고",
+            "timing": 136304
+        },
+        {
+            "string": "救命道具も",
+            "korean": "구명도구도",
+            "timing": 140472
+        },
+        {
+            "string": "役に立たない",
+            "korean": "도움되질 않아",
+            "timing": 144785
+        },
+        {
+            "string": "急降下",
+            "korean": "급강하",
+            "timing": 149120
+        },
+        {
+            "string": "しながら",
+            "korean": "하면서",
+            "timing": 153240
+        },
+        {
+            "string": "飛べ",
+            "korean": "날아라",
+            "timing": 156952
+        },
+        {
+            "string": "ウィ.ウォナ.ゴㅡ",
+            "korean": "We wanna goㅡ",
+            "timing": 162672
+        },
+        {
+            "string": "ウィ.ウォナ.ゴㅡ",
+            "korean": "We wanna goㅡ",
+            "timing": 170808
+        },
+        {
+            "string": "",
+            "korean": "",
+            "timing": 175808
+        }
+    ]
+}

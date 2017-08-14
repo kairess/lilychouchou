@@ -22,9 +22,9 @@
                 <%=title%>
             </div> -->
             <div id="clock"></div>
-            <div id="lap"></div>
             <div id="script"></div>
             <div id="translate"></div>
+            <div id="lap" style="color:blue;"></div>
         </div>
     </div>
 </body>
@@ -62,12 +62,12 @@
         });
     });
 
-    // document.addEventListener("keydown", function(event) {
-    //     if(event.which == 32) {
-    //         console.log(progress);
-    //         document.getElementById("lap").innerHTML += "<br>" + progress.lap();
-    //     }
-    // });
+    document.addEventListener("keydown", function(event) {
+        if(event.which == 32) {
+            console.log(progress);
+            document.getElementById("lap").innerHTML += "<br>" + progress.lap();
+        }
+    });
 </script>
 
 </html>
