@@ -36,7 +36,8 @@
             "string": "曇った空のグレイ",
             "korean": "흐린 하늘의 회색빛",
             "timing": 49248,
-            "backgroundColor": "#999"
+            "backgroundColor": "#999",
+            "fontColor": "#777"
         },
         {
             "string": "あなたが持ち上げていって",

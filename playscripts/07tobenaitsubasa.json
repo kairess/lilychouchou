@@ -1,0 +1,283 @@
+{
+    "title": "飛べない翼",
+    "file_location": "/musics/07tobenaitsubasa.mp3",
+    "script": [{
+        "string": "飛べない翼",
+        "korean": "날수 없는 날개",
+        "timing": 1000
+    },{
+        "string": "校庭が歪んで",
+        "korean": "교정이 일그러져",
+        "timing": 28432
+    },{
+        "string": "見えた",
+        "korean": "보였다",
+        "timing": 33436
+    },{
+        "string": "白い体操着が",
+        "korean": "하얀 체조봉이",
+        "timing": 35443
+    },{
+        "string": "見えた",
+        "korean": "보였다",
+        "timing": 40533
+    },{
+        "string": "カラスが低く空",
+        "korean": "까마귀가 낮게 하늘을",
+        "timing": 42380
+    },{
+        "string": "飛んだ",
+        "korean": "난다",
+        "timing": 47500
+    },{
+        "string": "黑い羽を",
+        "korean": "검은 날개를",
+        "timing": 49316
+    },{
+        "string": "少しだけ",
+        "korean": "조금만",
+        "timing": 51980
+    },{
+        "string": "分けてください",
+        "korean": "나눠 주세요",
+        "timing": 54507
+    },{
+        "string": "空に伸びた",
+        "korean": "하늘에 펼쳐진",
+        "timing": 57139
+    },{
+        "string": "階段",
+        "korean": "계단",
+        "timing": 59828
+    },{
+        "string": "そこまで",
+        "korean": "그곳까지",
+        "timing": 62988
+    },{
+        "string": "手が届かない",
+        "korean": "손이 닿지 않아",
+        "timing": 64707
+    },{
+        "string": "夕暮れの空は",
+        "korean": "노을진 하늘은",
+        "timing": 70155,
+        "backgroundColor": "#FF6F00",
+        "fontColor": "#fff",
+        "translateColor": "#fff"
+    },{
+        "string": "あかく",
+        "korean": "밝고",
+        "timing": 73739,
+        "backgroundColor": "#FF6F00",
+        "fontColor": "#fff",
+        "translateColor": "#fff"
+    },{
+        "string": "みんなの視線",
+        "korean": "모두의 시선은",
+        "timing": 77187
+    },{
+        "string": "冷たく",
+        "korean": "차갑고",
+        "timing": 80291
+    },{
+        "string": "そして",
+        "korean": "그리고",
+        "timing": 83979
+    },{
+        "string": "大きな石が",
+        "korean": "커다란 돌이",
+        "timing": 85595
+    },{
+        "string": "空から",
+        "korean": "하늘에서",
+        "timing": 88818
+    },{
+        "string": "落ちてきて",
+        "korean": "떨어져 와서",
+        "timing": 90739
+    },{
+        "string": "あたしを押しつぶす",
+        "korean": "나를 짓누른다",
+        "timing": 94242
+    },{
+        "string": "",
+        "korean": "",
+        "timing": 104242
+    },{
+        "string": "私の心には",
+        "korean": "나의 마음에는",
+        "timing": 112496
+    },{
+        "string": "見えた",
+        "korean": "보였어",
+        "timing": 117502
+    },{
+        "string": "取り残されていく",
+        "korean": "남겨져 가는",
+        "timing": 119630
+    },{
+        "string": "ものが",
+        "korean": "것이",
+        "timing": 124326
+    },{
+        "string": "あなたの言い訳や",
+        "korean": "당신의 변명이나",
+        "timing": 126430
+    },{
+        "string": "噓は",
+        "korean": "거짓말은",
+        "timing": 131478
+    },{
+        "string": "何の役にも立たない",
+        "korean": "어떤 도움도 되질 않아",
+        "timing": 133510
+    },{
+        "string": "がらくたのよう",
+        "korean": "잡동사니 같아",
+        "timing": 138382
+    },{
+        "string": "空に伸びた",
+        "korean": "하늘에 펼쳐진",
+        "timing": 141270
+    },{
+        "string": "階段",
+        "korean": "계단",
+        "timing": 143958
+    },{
+        "string": "そこまで",
+        "korean": "그곳까지",
+        "timing": 147190
+    },{
+        "string": "手が届かない",
+        "korean": "손이 닿지 않아",
+        "timing": 148950
+    },{
+        "string": "夕暮れの空は",
+        "korean": "노을진 하늘은",
+        "timing": 154181,
+        "backgroundColor": "#FF6F00",
+        "fontColor": "#fff",
+        "translateColor": "#fff"
+    },{
+        "string": "あかく",
+        "korean": "밝고",
+        "timing": 157933,
+        "backgroundColor": "#FF6F00",
+        "fontColor": "#fff",
+        "translateColor": "#fff"
+    },{
+        "string": "みんなの視線",
+        "korean": "모두의 시선은",
+        "timing": 161262
+    },{
+        "string": "冷たく",
+        "korean": "차갑고",
+        "timing": 164365
+    },{
+        "string": "そして",
+        "korean": "그리고",
+        "timing": 168212
+    },{
+        "string": "大きな雲が",
+        "korean": "커다란 구름이",
+        "timing": 169772
+    },{
+        "string": "空から",
+        "korean": "하늘에서",
+        "timing": 173133
+    },{
+        "string": "降りてきて",
+        "korean": "내려와서",
+        "timing": 174989
+    },{
+        "string": "あたしを隱していく",
+        "korean": "나를 가리우기 시작한다",
+        "timing": 178541
+    },{
+        "string": "機嫌直して",
+        "korean": "기분을 가다듬고",
+        "timing": 185724
+    },{
+        "string": "生きよう",
+        "korean": "살아보자",
+        "timing": 188836
+    },{
+        "string": "空のきれまから",
+        "korean": "갈라진 하늘 틈에서",
+        "timing": 191308
+    },{
+        "string": "こぼれる",
+        "korean": "넘쳐흐르는",
+        "timing": 194860
+    },{
+        "string": "ひかりがまた",
+        "korean": "빛이 또 다시",
+        "timing": 197476
+    },{
+        "string": "動いてくるよ",
+        "korean": "움직여 온다고",
+        "timing": 202739
+    },{
+        "string": "",
+        "korean": "",
+        "timing": 212739
+    },{
+        "string": "夕暮れの空は",
+        "korean": "노을 진 하늘은",
+        "timing": 223829,
+        "backgroundColor": "#FF6F00",
+        "fontColor": "#fff",
+        "translateColor": "#fff"
+    },{
+        "string": "あかく",
+        "korean": "밝고",
+        "timing": 227508,
+        "backgroundColor": "#FF6F00",
+        "fontColor": "#fff",
+        "translateColor": "#fff"
+    },{
+        "string": "もうすぐに",
+        "korean": "이제 곧",
+        "timing": 230964
+    },{
+        "string": "暮れしまう",
+        "korean": "저물어 버릴거야",
+        "timing": 233132
+    },{
+        "string": "だから飛べない",
+        "korean": "그러니까 날 수 없는",
+        "timing": 237852
+    },{
+        "string": "翼を捨てたら",
+        "korean": "날개를 버린다면",
+        "timing": 241108
+    },{
+        "string": "捨てたなら",
+        "korean": "버려 버린다면",
+        "timing": 244500
+    },{
+        "string": "あたしは舞い上がろう",
+        "korean": "나는 하늘로 춤추듯 날아 올라가겠지",
+        "timing": 248083
+    },{
+        "string": "だから飛べない",
+        "korean": "그러니까 날 수 없는",
+        "timing": 255235
+    },{
+        "string": "翼を捨てたら",
+        "korean": "날개를 버린다면",
+        "timing": 258475
+    },{
+        "string": "捨てたなら",
+        "korean": "버려 버린다면",
+        "timing": 261899
+    },{
+        "string": "あたしは舞い上がろう",
+        "korean": "나는 하늘로 춤추듯 날아 올라가겠지",
+        "timing": 265539
+    },{
+        "string": "",
+        "korean": "",
+        "timing": 275539
+    }]
+}

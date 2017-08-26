@@ -1,0 +1,121 @@
+{
+    "title": "グライド(Gilde)",
+    "file_location": "/musics/09glide.mp3",
+    "script": [{
+        "string": "グライド",
+        "korean": "Glide",
+        "timing": 1000
+    },{
+        "string": "I wanna be",
+        "korean": "",
+        "timing": 7021
+    },{
+        "string": "I wanna be just like a melody",
+        "korean": "",
+        "timing": 18549
+    },{
+        "string": "just like a simple sound",
+        "korean": "",
+        "timing": 22612
+    },{
+        "string": "like in harmony",
+        "korean": "",
+        "timing": 25724
+    },{
+        "string": "I wanna be",
+        "korean": "",
+        "timing": 31691
+    },{
+        "string": "I wanna be just like the sky",
+        "korean": "",
+        "timing": 43140
+    },{
+        "string": "just fly so far away",
+        "korean": "",
+        "timing": 47227
+    },{
+        "string": "to another place",
+        "korean": "",
+        "timing": 50515
+    },{
+        "string": "to be away from all",
+        "korean": "",
+        "timing": 60394
+    },{
+        "string": "to be one of everything",
+        "korean": "",
+        "timing": 68611
+    },{
+        "string": "I wanna be",
+        "korean": "",
+        "timing": 79339
+    },{
+        "string": "I wanna be just like the wind",
+        "korean": "",
+        "timing": 90827
+    },{
+        "string": "just flowing in the air",
+        "korean": "",
+        "timing": 94802
+    },{
+        "string": "through an open space",
+        "korean": "",
+        "timing": 98161
+    },{
+        "string": "",
+        "korean": "",
+        "timing": 108161
+    },{
+        "string": "I wanna be",
+        "korean": "",
+        "timing": 128564
+    },{
+        "string": "I wanna be just like the sea",
+        "korean": "",
+        "timing": 140141
+    },{
+        "string": "just swaying in the water",
+        "korean": "",
+        "timing": 143884
+    },{
+        "string": "so to be at ease",
+        "korean": "",
+        "timing": 147243
+    },{
+        "string": "to be away from all",
+        "korean": "",
+        "timing": 157124
+    },{
+        "string": "to be one of everything",
+        "korean": "",
+        "timing": 165587
+    },{
+        "string": "I wanna be",
+        "korean": "",
+        "timing": 176131
+    },{
+        "string": "I wanna be just like a melody",
+        "korean": "",
+        "timing": 187691
+    },{
+        "string": "just like a simple sound",
+        "korean": "",
+        "timing": 191730
+    },{
+        "string": "like in harmony",
+        "korean": "",
+        "timing": 194986
+    },{
+        "string": "I wanna be just like a melody",
+        "korean": "",
+        "timing": 200778
+    },{
+        "string": "just like a simple sound",
+        "korean": "",
+        "timing": 205017
+    },{
+        "string": "like in harmony",
+        "korean": "",
+        "timing": 208026
+    }]
+}

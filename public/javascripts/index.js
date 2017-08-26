@@ -38,10 +38,10 @@ LilyType.prototype.print = function(message) {
             var translateColor = "#666";
 
             // Custom background color
-            if(message.backgroundColor) {
+            if(message.backgroundColor || message.fontColor) {
                 backgroundColor = message.backgroundColor;
-                ontColor = "#fff";
-                translateColor = "#777";
+                fontColor = message.fontColor;
+                translateColor = message.translateColor ? message.translateColor : "#777";
             } else if(rand >= 0.25) {
                 backgroundColor = "black"
                 fontColor = "#fff";

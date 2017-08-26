@@ -41,3 +41,49 @@ body {
     color: #666;
     text-align: center;
 }
+
+div.list-container {
+    position: absolute;
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+div.list-container h2 {
+    margin: 0;
+    padding: 0;
+}
+
+div.list-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.list-container li {
+    border-bottom: 1px solid #ccc;
+}
+
+div.list-container li:last-child {
+    border: none;
+}
+
+div.list-container li a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    width: 100%;
+
+    -webkit-transition: font-size 0.1s ease, background-color 0.1s ease;
+    -moz-transition: font-size 0.1s ease, background-color 0.1s ease;
+    -o-transition: font-size 0.1s ease, background-color 0.1s ease;
+    -ms-transition: font-size 0.1s ease, background-color 0.1s ease;
+    transition: font-size 0.1s ease, background-color 0.1s ease;
+}
+
+div.list-container li a:hover {
+    font-size: 20px;
+    background: #f6f6f6;
+}

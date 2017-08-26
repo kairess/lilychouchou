@@ -1,0 +1,73 @@
+{
+    "title": "飽和",
+    "file_location": "/musics/06houwa.mp3",
+    "script": [{
+        "string": "飽和",
+        "korean": "포화",
+        "timing": 1000
+    },{
+        "string": "I miss you",
+        "korean": "",
+        "timing": 21218
+    },{
+        "string": "1億光年の",
+        "korean": "일억광년의",
+        "timing": 35098
+    },{
+        "string": "果てにも屆いて",
+        "korean": "끝에도 다다라서",
+        "timing": 42745
+    },{
+        "string": "I miss you",
+        "korean": "",
+        "timing": 49376
+    },{
+        "string": "40万キロも",
+        "korean": "사십만 킬로미터나",
+        "timing": 63545
+    },{
+        "string": "先の月が笑う",
+        "korean": "떨어져 있는 달이 웃는다",
+        "timing": 70816
+    },{
+        "string": "",
+        "korean": "",
+        "timing": 80816
+    },{
+        "string": "I miss you",
+        "korean": "",
+        "timing": 105688
+    },{
+        "string": "南回歸線で",
+        "korean": "남회귀선으로",
+        "timing": 119959
+    },{
+        "string": "戾ってきたなら",
+        "korean": "되돌아오면",
+        "timing": 127190
+    },{
+        "string": "I miss you",
+        "korean": "",
+        "timing": 133942
+    },{
+        "string": "あなたのくちびるに",
+        "korean": "당신의 입술에",
+        "timing": 148246
+    },{
+        "string": "近づいてしまった",
+        "korean": "다가가버렸다",
+        "timing": 155013
+    },{
+        "string": "あと1mmにある",
+        "korean": "남은 1mm에 있는",
+        "timing": 162333
+    },{
+        "string": "飽和への入り口",
+        "korean": "포화로의 입구",
+        "timing": 169613
+    },{
+        "string": "",
+        "korean": "",
+        "timing": 179613
+    }]
+}
